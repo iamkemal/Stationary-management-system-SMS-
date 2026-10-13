@@ -1,0 +1,24 @@
+****How to run the Library Management System Project****
+
+1. Download and Unzip file on your local system copy library
+2. Put library folder inside root directory
+
+Database Configuration
+
+Open phpmyadmin
+Create Database sms
+Import database sms.sql (available inside SQL folder in zip package)
+
+***************************Login Details for staff***************************
+enail: staff@gmail.com
+Password: 1234
+
+***************************Login Details for admin***************************
+email: admin@gmail.com
+Password: 1234
+
+***************************Login Details for special member***************************
+email: jama@gmail.com
+password: 1234
+
+
